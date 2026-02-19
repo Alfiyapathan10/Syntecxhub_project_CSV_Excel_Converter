@@ -60,5 +60,5 @@ Alfiya	0	C
 
 •Workflow Diagram:
 
-<!-- Uploading "CSV_excel_ converter _demo.png.jpeg"... -->
+![Image](https://github.com/user-attachments/assets/cff2546a-9970-4678-b32a-1cffbaaa9ce0)
 
