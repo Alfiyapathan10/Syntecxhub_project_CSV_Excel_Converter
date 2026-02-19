@@ -44,11 +44,14 @@ python csv_to_excel.py
 •Example
 
 •CSV Input (sample.csv):
-Name	Age	Grade
+Name	Age 	Grade
 
 Sagar	20	A
+
 Sara	19	B
+
 Alfiya		C
+
 
 
 •Excel Output (sample.xlsx):
@@ -56,7 +59,9 @@ Alfiya		C
 Name	Age	Grade
 
 Sagar	20	A
+
 Sara	19	B
+
 Alfiya	0	C
 
 
