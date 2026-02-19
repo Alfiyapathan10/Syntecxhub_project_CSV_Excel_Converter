@@ -31,7 +31,9 @@ pip install pandas openpyxl
 
 Run the script from the command line:
 
-python csv_to_excel.py --input sample.csv --output output.xlsx
+python csv_to_excel.py
+--input sample.csv
+--output output.xlsx
 
 •CLI Arguments:
 
